@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+This is a script file for generating data for Vander Pol system
 """
 
 import numpy as np
